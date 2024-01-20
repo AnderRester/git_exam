@@ -1,3 +1,5 @@
 test2
 
 Some changes branch2
+
+Another changes branch2
